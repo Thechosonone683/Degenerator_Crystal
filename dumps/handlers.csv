@@ -1,0 +1,106 @@
+Handler Recipe Name,Handler Class,Overlay Identifier,Mod DisplayName,ItemStack
+有序合成,codechicken.nei.recipe.ShapedRecipeHandler,crafting,Minecraft,1xtile.workbench@0
+无序合成,codechicken.nei.recipe.ShapelessRecipeHandler,crafting,Minecraft,1xtile.workbench@0
+烟花,codechicken.nei.recipe.FireworkRecipeHandler,crafting,Minecraft,1xitem.fireworks@0
+烧制,codechicken.nei.recipe.FurnaceRecipeHandler,smelting,Minecraft,1xtile.furnace@0
+酿造,codechicken.nei.recipe.BrewingRecipeHandler,brewing,Minecraft,1xitem.brewingStand@0
+燃料,codechicken.nei.recipe.FuelRecipeHandler,fuel,Minecraft,Unknown
+信息,codechicken.nei.recipe.InformationHandler,information,Not Enough Items,Unknown
+修复,codechicken.nei.recipe.RepairRecipeHandler,repair,Minecraft,1xtile.anvil@0
+用途查询性能分析,codechicken.nei.recipe.ProfilerRecipeHandler,null,Not Enough Items,1xitem.clock@0
+有序合成,appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,crafting,Applied Energistics 2,1xitem.appliedenergistics2.ItemPart@380
+无序合成,appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler,crafting,Applied Energistics 2,1xitem.appliedenergistics2.ItemPart@380
+压印器,appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,inscriber,Applied Energistics 2,1xtile.appliedenergistics2.BlockInscriber@0
+AE2在世界中的合成,appeng.integration.modules.NEIHelpers.NEIWorldCraftingHandler,null,Applied Energistics 2,1xitem.appliedenergistics2.ItemMaterial@9
+元件视图,appeng.integration.modules.NEIHelpers.NEICellViewHandler,null,Applied Energistics 2,1xitem.appliedenergistics2.ItemBasicStorageCell.64k@0
+编码样板,appeng.integration.modules.NEIHelpers.NEIPatternViewHandler,null,Applied Energistics 2,1xitem.appliedenergistics2.ItemEncodedPattern@0
+磨具,appeng.integration.modules.NEIHelpers.NEIGrinderRecipeHandler,grindstone,Applied Energistics 2,1xtile.appliedenergistics2.BlockGrinder@0
+伪装板合成,appeng.integration.modules.NEIHelpers.NEIFacadeRecipeHandler,AEFacadeCrafting,Applied Energistics 2,1xitem.appliedenergistics2.ItemFacade@192
+无序合成,extracells.integration.nei.UniversalTerminalRecipe,crafting,Extra Cells 2,1xitem.extracells.part.base@9
+有序合成,gcewing.projectblue.nei.NEIRecipeHandler,crafting,ProjectBlue,1xitem.gcewing_projectblue:sprayCan@0
+末影箱子概况,neicustomdiagram.diagramgroup.enderstorage.chestoverview,null,NEI Custom Diagram,1xtile.enderchest@0
+末影储罐概况,neicustomdiagram.diagramgroup.enderstorage.tankoverview,null,NEI Custom Diagram,1xtile.enderchest@4096
+世界生成战利品,neicustomdiagram.diagramgroup.forge.worldgenloot,null,NEI Custom Diagram,1xtile.chest@0
+信息,loenwind.enderioaddons.nei.TeaserRecipeHandler,EnderIOAddonsTeaser,Unknown,Unknown
+机器合成,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerCraftingMachine,crafting,Thermal Expansion,1xtile.thermalexpansion.frame@0
+BetterQuesting,bq_standard.integration.nei.QuestRecipeHandler,bq_quest,Standard Expansion,1xitem.ItemQuestBook@0
+升级插件合成,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerCraftingUpgrade,crafting,Thermal Expansion,1xtile.thermalexpansion.frame@3
+磁化器,loenwind.enderioaddons.nei.MagChargerRecipeHandler,EnderIOAddonsMagCharger,Unknown,Unknown
+安全保护合成,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerCraftingSecure,crafting,Thermal Expansion,1xitem.thermalexpansion.material@16
+捕兽笼掉落物,com.pam.harvestcraft.AnimalTrapRecipeHandler,harvestcraftAnimalTrapDrops,Pam's HarvestCraft,1xtile.animaltrap@0
+渔栅掉落物,com.pam.harvestcraft.FishTrapRecipeHandler,harvestcraftFishTrapDrops,Pam's HarvestCraft,1xtile.fishtrap@0
+果园/菜园掉落,com.pam.harvestcraft.GardenRecipeHandler,harvestcraftGardenDrops,Pam's HarvestCraft,1xtile.berrygarden@0
+有序终极合成,fox.spiteful.avaritia.compat.nei.ExtremeShapedRecipeHandler,extreme,Avaritia,1xtile.dire_crafting@0
+无序终极合成,fox.spiteful.avaritia.compat.nei.ExtremeShapelessRecipeHandler,extreme,Avaritia,1xtile.dire_crafting@0
+中子态素压缩机,fox.spiteful.avaritia.compat.nei.CompressionHandler,extreme_compression,Avaritia,1xtile.neutronium_compressor@0
+Mob Info,com.kuba6000.mobsinfo.nei.MobHandler,mobsinfo.mobhandler,MobsInfo,1xitem.swordDiamond@0
+Villager Trades,com.kuba6000.mobsinfo.nei.VillagerTradesHandler,mobsinfo.villagertradeshandler,MobsInfo,1xitem.emerald@0
+红石炉,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerFurnace,thermalexpansion.furnace,Thermal Expansion,1xtile.thermalexpansion.machine@0
+磨粉机,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerPulverizer,thermalexpansion.pulverizer,Thermal Expansion,1xtile.thermalexpansion.machine@1
+反应堆,com.brandon3055.draconicevolution.integration.nei.ReactorNEIHandler,draconicevolution.reactor,Draconic Evolution,1xtile.draconicevolution:reactorCore@0
+浮空花,vazkii.botania.client.integration.nei.recipe.RecipeHandlerFloatingFlowers,crafting2x2,Botania,1xtile.miniIsland@0
+锯木机,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerSawmill,thermalexpansion.sawmill,Thermal Expansion,1xtile.thermalexpansion.machine@2
+有序合成,mrtjp.projectred.core.libmc.recipe.PRShapedRecipeHandler,crafting,ProjectRed,1xitem.projectred.transmission.wire@7
+无序合成,mrtjp.projectred.core.libmc.recipe.PRShapelessRecipeHandler,crafting,ProjectRed,1xitem.projectred.transmission.wire@7
+感应炉,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerSmelter,thermalexpansion.smelter,Thermal Expansion,1xtile.thermalexpansion.machine@3
+合金炉（Ender IO）,crazypants.enderio.nei.AlloySmelterRecipeHandler,EnderIOAlloySmelter,Ender IO,1xtile.blockAlloySmelter@0
+花瓣炼制,vazkii.botania.client.integration.nei.recipe.RecipeHandlerPetalApothecary,botania.petalApothecary,Botania,1xtile.altar@0
+SAG磨粉机,crazypants.enderio.nei.SagMillRecipeHandler,EnderIOSagMill,Ender IO,1xtile.blockSagMill@0
+熔岩炉,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerCrucible,thermalexpansion.crucible,Thermal Expansion,1xtile.thermalexpansion.machine@4
+符文祭坛,vazkii.botania.client.integration.nei.recipe.RecipeHandlerRunicAltar,botania.runicAltar,Botania,1xtile.runeAltar@0
+Chisel,team.chisel.compat.nei.RecipeHandlerChisel,null,Chisel,1xitem.chisel.chisel_iron@0
+覆盖板制作,cofh.thermaldynamics.plugins.nei.RecipeHandlerCover,crafting,Thermal Dynamics,1xitem.thermaldynamics.cover@0
+流体转置机,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerTransposer,thermalexpansion.transposer,Thermal Expansion,1xtile.thermalexpansion.machine@5
+魔力灌注,vazkii.botania.client.integration.nei.recipe.RecipeHandlerManaPool,botania.manaPool,Botania,1xtile.pool@0
+酿液桶,crazypants.enderio.nei.VatRecipeHandler,EnderIOVat,Ender IO,1xtile.blockVat@0
+精灵交易,vazkii.botania.client.integration.nei.recipe.RecipeHandlerElvenTrade,botania.elvenTrade,Botania,1xtile.alfheimPortal@0
+有机灌注器,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerInsolator,thermalexpansion.insolator,Thermal Expansion,1xtile.thermalexpansion.machine@11
+皮肤奖励袋,blusunrize.immersiveengineering.client.nei.NEIShaderBagHandler,ieShaderBag,Immersive Engineering,1xitem.ImmersiveEngineering.shaderBag@0
+植物酿造,vazkii.botania.client.integration.nei.recipe.RecipeHandlerBrewery,botania.brewery,Botania,1xtile.brewery@0
+能量灌注机,cofh.thermalexpansion.plugins.nei.handlers.RecipeHandlerCharger,thermalexpansion.charger,Thermal Expansion,1xtile.thermalexpansion.machine@10
+附魔器,crazypants.enderio.nei.EnchanterRecipeHandler,EIOEnchanter,Ender IO,1xtile.blockEnchanter@0
+blockrenderer6343.integration.structurelib.StructureCompatNEIHandler,blockrenderer6343.integration.structurelib.StructureCompatNEIHandler,StructureLib,1xitem.structurelib.constructableTrigger@0
+工程师装配台,blusunrize.immersiveengineering.client.nei.NEIBlueprintHandler,ieBlueprintCrafting,Immersive Engineering,1xtile.ImmersiveEngineering.woodenDevice@5
+白雏菊,vazkii.botania.client.integration.nei.recipe.RecipeHandlerPureDaisy,botania.pureDaisy,Botania,1xtile.specialFlower@0
+焦炉,blusunrize.immersiveengineering.client.nei.NEICokeOvenHandler,ieCokeOven,Immersive Engineering,1xtile.ImmersiveEngineering.stoneDecoration@1
+头颅装配机,crazypants.enderio.nei.SliceAndSpliceRecipeHandler,EnderIOSliceAndSplice,Ender IO,1xtile.blockSliceAndSplice@0
+植物魔法辞典,vazkii.botania.client.integration.nei.recipe.RecipeHandlerLexicaBotania,botania.lexica,Botania,1xitem.lexicon@0
+高炉,blusunrize.immersiveengineering.client.nei.NEIBlastFurnaceHandler,ieBlastFurnace,Immersive Engineering,1xtile.ImmersiveEngineering.stoneDecoration@2
+Ex Nihilo Hammer,exnihilo.compatibility.nei.RecipeHandlerHammer,null,Ex Nihilo,1xexnihilo.hammer_iron@0
+Ex Nihilo Sieve,exnihilo.compatibility.nei.RecipeHandlerSieve,null,Ex Nihilo,1xtile.exnihilo.sifting_table@0
+工业挤压机,blusunrize.immersiveengineering.client.nei.NEISqueezerHandler,ieSqueezer,Immersive Engineering,1xtile.ImmersiveEngineering.metalMultiblock@2
+晾干架,tconstruct.plugins.nei.RecipeHandlerDryingRack,null,Tinker's Construct,1xtile.Armor.DryingRack@0
+灵魂绑定器,crazypants.enderio.nei.SoulBinderRecipeHandler,EnderIOSoulBinder,Ender IO,1xtile.blockSoulBinder@0
+发酵机,blusunrize.immersiveengineering.client.nei.NEIFermenterHandler,ieFermenter,Immersive Engineering,1xtile.ImmersiveEngineering.metalMultiblock@3
+工具材料,tconstruct.plugins.nei.RecipeHandlerToolMaterials,null,Tinker's Construct,1xtile.ToolStation@0
+冶炼炉熔化,tconstruct.plugins.nei.RecipeHandlerMelting,null,Tinker's Construct,1xtile.LavaTank@2
+炼油厂,blusunrize.immersiveengineering.client.nei.NEIRefineryHandler,ieRefinery,Immersive Engineering,1xtile.ImmersiveEngineering.metalMultiblock@4
+冶炼炉合金,tconstruct.plugins.nei.RecipeHandlerAlloying,null,Tinker's Construct,1xtile.Smeltery@0
+灌装机,blusunrize.immersiveengineering.client.nei.NEIBottlingMachineHandler,ieBottlingMachine,Immersive Engineering,1xitem.glassBottle@0
+浇铸台,tconstruct.plugins.nei.RecipeHandlerCastingTable,null,Tinker's Construct,1xtile.SearedBlock@0
+铸造盆,tconstruct.plugins.nei.RecipeHandlerCastingBasin,null,Tinker's Construct,1xtile.SearedBlock@2
+流体注册表,tonius.neiintegration.mods.mcforge.RecipeHandlerFluidRegistry,null,Minecraft,1xtile.water@0
+金属冲压机,blusunrize.immersiveengineering.client.nei.NEIMetalPressHandler,ieMetalPress,Immersive Engineering,1xtile.ImmersiveEngineering.metalMultiblock@13
+矿物辞典,tonius.neiintegration.mods.mcforge.RecipeHandlerOreDictionary,null,Minecraft,1xtile.oreIron@0
+粉碎机,blusunrize.immersiveengineering.client.nei.NEICrusherHandler,ieCrusher,Immersive Engineering,1xtile.ImmersiveEngineering.metalMultiblock@5
+QED Recipes,com.rwtema.extrautils.nei.EnderConstructorHandler,qedcrafting,Extra Utilities,1xtile.extrautils:endConstructor@0
+Documentation,com.rwtema.extrautils.nei.InfoHandler,null,Extra Utilities,1xtile.extrautils:chandelier@0
+Soul Crafting,com.rwtema.extrautils.nei.SoulHandler,null,Extra Utilities,1xitem.extrautils:mini-soul@0
+Microblock Crafting,com.rwtema.extrautils.nei.FMPMicroBlocksHandler,crafting,Extra Utilities,1xitem.microblock:sawIron@0
+Extra Utilities: Microblocks,com.rwtema.extrautils.nei.MicroBlocksHandler,crafting,Extra Utilities,1xitem.extrautils:microblocks@1
+蜂箱,tonius.neiintegration.mods.harvestcraft.RecipeHandlerApiary,null,Pam's Harvestcraft,1xtile.apiary@0
+压榨机,tonius.neiintegration.mods.harvestcraft.RecipeHandlerPresser,null,Pam's Harvestcraft,1xtile.presser@0
+烤箱,tonius.neiintegration.mods.harvestcraft.RecipeHandlerOven,null,Pam's Harvestcraft,1xtile.oven@0
+搅拌机,tonius.neiintegration.mods.harvestcraft.RecipeHandlerChurn,null,Pam's Harvestcraft,1xtile.churn@0
+石磨,tonius.neiintegration.mods.harvestcraft.RecipeHandlerQuern,null,Pam's Harvestcraft,1xtile.quern@0
+生物质炉,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerBioReactor,null,MineFactory Reloaded,1xtile.mfr.machine.1@10
+堆肥器,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerComposter,null,MineFactory Reloaded,1xtile.mfr.machine.0@11
+屠宰机,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerGrinder,null,MineFactory Reloaded,1xtile.mfr.machine.0@13
+收割机,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerHarvester,null,MineFactory Reloaded,1xtile.mfr.machine.0@2
+镭射钻,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerLaserDrill,null,MineFactory Reloaded,1xtile.mfr.machine.2@0
+岩浆制造机,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerLavaFabricator,null,MineFactory Reloaded,1xtile.mfr.machine.1@5
+肉块打包机,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerMeatPacker,null,MineFactory Reloaded,1xtile.mfr.machine.1@14
+排污器,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerSewer,null,MineFactory Reloaded,1xtile.mfr.machine.0@10
+屠宰场,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerSlaughterhouse,null,MineFactory Reloaded,1xtile.mfr.machine.1@13
+污泥处理机,tonius.neiintegration.mods.minefactoryreloaded.RecipeHandlerSludgeBoiler,null,MineFactory Reloaded,1xtile.mfr.machine.0@9
+蓝晶再加工机,tonius.neiintegration.mods.bigreactors.RecipeHandlerCyaniteReprocessor,null,Big Reactors,1xtile.blockBRDevice.0@0

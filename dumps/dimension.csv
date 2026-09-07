@@ -1,0 +1,6 @@
+ID,Provider ID,Provider Class Name
+-112,-112,com.rwtema.extrautils.worldgen.endoftime.WorldProviderEndOfTime
+-100,-100,com.rwtema.extrautils.worldgen.Underdark.WorldProviderUnderdark
+-1,-1,exnihilo.world.WorldProviderHellVoid
+0,0,net.minecraft.world.WorldProviderSurface
+1,1,net.minecraft.world.WorldProviderEnd
