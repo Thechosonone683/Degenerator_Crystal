@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "难熬的前期寻求世界起源。",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:grass"
+      },
+      "name:8": "世界起源",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questLineIDHigh:4": 5611770932798309638,
+  "questLineIDLow:4": -7480170664462448275
+}

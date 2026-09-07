@@ -1,0 +1,262 @@
+{
+  "format:8": "3.1.0",
+  "questDatabase:9": {
+    "0:10": {
+      "preRequisites:9": {
+        "0:10": {
+          "questIDHigh:4": -4181568439664882189,
+          "questIDLow:4": -6378681290722165274
+        }
+      },
+      "properties:10": {
+        "betterquesting:10": {
+          "autoClaim:1": 0,
+          "completion_animation:8": "default",
+          "completion_particle:8": "default",
+          "confetti_icon:10": {
+            "Count:3": 0,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:stick"
+          },
+          "countAsQuest:1": 1,
+          "desc:8": "这是啥！工作台啊！\n\n[note]在树苗旁边狂按潜行键(默认Shift)可让树苗快速长大。\n按住~键(数字1键左边）破坏方块可以一并破坏其相邻的同种方块。[/note]",
+          "globalShare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:log"
+          },
+          "isMain:1": 0,
+          "isSilent:1": 0,
+          "lockedProgress:1": 0,
+          "name:8": "一样的工作台",
+          "notification_duration:5": -1.0,
+          "notification_effect:3": -1,
+          "notification_fade_in:5": -1.0,
+          "notification_fade_out:5": -1.0,
+          "notification_icon_offset_y:3": -2147483648,
+          "notification_icon_scale:5": -1.0,
+          "notification_pos_x:3": -2147483648,
+          "notification_pos_y:3": -2147483648,
+          "notification_show_icon:8": "default",
+          "notification_style:8": "default",
+          "notification_subtitle:8": "",
+          "notification_subtitle_scale:5": -1.0,
+          "notification_title:8": "",
+          "notification_title_scale:5": -1.0,
+          "particle_count:3": -1,
+          "questLogic:8": "AND",
+          "repeatTime:3": -1,
+          "repeat_relative:1": 1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "random.levelup",
+          "snd_update:8": "random.levelup",
+          "taskLogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questIDHigh:4": -3369017975676255535,
+      "questIDLow:4": -6222670114582253803,
+      "rewards:9": {
+        "0:10": {
+          "ignoreDisabled:1": 0,
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:cobblestone"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requireOnlyOneItem:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:log"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "1:10": {
+      "preRequisites:9": {},
+      "properties:10": {
+        "betterquesting:10": {
+          "autoClaim:1": 0,
+          "completion_animation:8": "default",
+          "completion_particle:8": "default",
+          "confetti_icon:10": {
+            "Count:3": 0,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:stick"
+          },
+          "countAsQuest:1": 1,
+          "desc:8": "木头和石头是重要的材料，我需要赶紧收集它们。\n\n[note]破坏活根获得活根(物品)，4个活根(物品)合成1个树苗。\n潜行+右键泥土或草方块获得卵石，4个卵石合成1个圆石。[/note]",
+          "globalShare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:sapling"
+          },
+          "isMain:1": 0,
+          "isSilent:1": 0,
+          "lockedProgress:1": 0,
+          "name:8": "木石之力",
+          "notification_duration:5": -1.0,
+          "notification_effect:3": -1,
+          "notification_fade_in:5": -1.0,
+          "notification_fade_out:5": -1.0,
+          "notification_icon_offset_y:3": -2147483648,
+          "notification_icon_scale:5": -1.0,
+          "notification_pos_x:3": -2147483648,
+          "notification_pos_y:3": -2147483648,
+          "notification_show_icon:8": "default",
+          "notification_style:8": "default",
+          "notification_subtitle:8": "",
+          "notification_subtitle_scale:5": -1.0,
+          "notification_title:8": "",
+          "notification_title_scale:5": -1.0,
+          "particle_count:3": -1,
+          "questLogic:8": "AND",
+          "repeatTime:3": -1,
+          "repeat_relative:1": 1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "random.levelup",
+          "snd_update:8": "random.levelup",
+          "taskLogic:8": "AND",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questIDHigh:4": -4181568439664882189,
+      "questIDLow:4": -6378681290722165274,
+      "rewards:9": {
+        "0:10": {
+          "ignoreDisabled:1": 0,
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "harvestcraft:spagettiandmeatballsItem"
+            },
+            "1:10": {
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "harvestcraft:springsaladItem"
+            },
+            "2:10": {
+              "Count:3": 5,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "harvestcraft:peanutbuttercookiesItem"
+            }
+          }
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "partialMatch:1": 1,
+          "requireOnlyOneItem:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:sapling"
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:cobblestone"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    }
+  },
+  "questLines:9": {
+    "0:10": {
+      "order:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "难熬的前期寻求世界起源。",
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:grass"
+          },
+          "name:8": "世界起源",
+          "visibility:8": "NORMAL"
+        }
+      },
+      "questLineIDHigh:4": 5611770932798309638,
+      "questLineIDLow:4": -7480170664462448275,
+      "quests:9": {
+        "0:10": {
+          "questIDHigh:4": -3369017975676255535,
+          "questIDLow:4": -6222670114582253803,
+          "sizeX:3": 30,
+          "sizeY:3": 30,
+          "x:3": 82,
+          "y:3": 20
+        },
+        "1:10": {
+          "questIDHigh:4": -4181568439664882189,
+          "questIDLow:4": -6378681290722165274,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 30,
+          "y:3": 16
+        }
+      }
+    }
+  },
+  "questSettings:10": {
+    "betterquesting:10": {
+      "editMode:1": 0,
+      "hardcore:1": 0,
+      "home_anchor_x:5": 0.5,
+      "home_anchor_y:5": 0.0,
+      "home_image:8": "custommainmenu:textures/gui/background.png",
+      "home_offset_x:3": -128,
+      "home_offset_y:3": 0,
+      "livesDef:3": 3,
+      "livesMax:3": 10,
+      "pack_name:8": "Degenerator_Crystal",
+      "pack_version:3": 0,
+      "party_enable:1": 1
+    }
+  }
+}
